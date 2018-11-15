@@ -1,0 +1,25 @@
+alias gw=./gradlew
+
+alias pgadmin='/Applications/pgAdmin\ 4.app/Contents/MacOS/pgAdmin4'
+
+alias kubectl10=kubectl
+alias pods='k get pods'
+
+alias gs='git status'
+alias gst='git stash'
+alias gsp='git stash pop'
+alias ga='git add'
+alias gc='git commit -m'
+alias gph='git push'
+alias gpl='git pull'
+alias gr='git reset'
+alias gck='git checkout'
+alias gb='git branch'
+alias gt='git tag'
+alias gd='git diff'
+
+alias dp='docker ps -a'
+alias dr='docker rm'
+
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/leonardo.galdino/.linkerd2/bin
+
