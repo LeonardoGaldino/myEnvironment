@@ -1,7 +1,5 @@
 alias gw=./gradlew
 
-alias pgadmin='/Applications/pgAdmin\ 4.app/Contents/MacOS/pgAdmin4'
-
 alias kubectl10=kubectl
 alias pods='k get pods'
 
