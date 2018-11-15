@@ -20,6 +20,3 @@ alias gd='git diff'
 
 alias dp='docker ps -a'
 alias dr='docker rm'
-
-export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/leonardo.galdino/.linkerd2/bin
-
